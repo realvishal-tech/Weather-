@@ -1,0 +1,9 @@
+{
+  "name": "VishvaX Weather",
+  "short_name": "VishvaX Weather",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080e1c",
+  "theme_color": "#080e1c",
+  "description": "Premium real-time weather"
+}
